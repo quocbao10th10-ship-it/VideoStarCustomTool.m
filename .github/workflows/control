@@ -1,0 +1,9 @@
+Package: com.custom.videostartool
+Name: VideoStarCustomTool
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Custom Floating Tool and QR Preset Loader for Video Star
+Maintainer: Developer
+Author: Developer
+Section: Tweaks
